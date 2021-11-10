@@ -2,7 +2,7 @@
 /.idea
 
 # Docker
-.env
+/.env
 docker-compose.yml
 
 # Storage
